@@ -47,7 +47,7 @@ external-controller-cors:
     - https://github.com
   allow-private-network: false
 # 控制 API 密钥；请勿公开。
-secret: DDcCsB2bvp9kciZhl9um11KgAfoRE7ge
+secret:
 # ==================== 基本运行设置 ====================
 ipv6: false
 mode: rule

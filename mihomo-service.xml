@@ -1,11 +1,16 @@
 <service>
-  <id>mihomo</id>
+  <!-- 服务身份标识：id 是 Windows 服务的唯一内部 ID，name 是服务列表中显示的名称，description 是服务描述。 -->
+  <id>mihomo</id> 
   <name>mihomo Service</name>
   <description>Mihomo proxy core service</description>
-  <executable>C:\Users\hui43\Downloads\mihomo\mihomo.exe</executable>
-  <arguments>-d C:\Users\hui43\Downloads\mihomo</arguments>
-  <workingdirectory>C:\Users\hui43\Downloads\mihomo</workingdirectory>
+  <!-- 要运行的程序：WinSW 启动时执行 mihomo.exe 的完整路径。 -->
+  <executable>C:\xxx\xxx\xxx\mihomo\mihomo.exe</executable>
+  <!-- 启动参数：相当于手动运行 mihomo.exe -d C:\xxx\xxx\xxx\mihomo。 -->
+  <arguments>-d C:\xxx\xxx\xxx\mihomo</arguments>
+  <!-- 工作目录：程序启动前进入此目录，相对路径会基于此目录解析。 -->
+  <workingdirectory>C:\xxx\xxx\xxx\mihomo</workingdirectory>
   <startmode>Automatic</startmode>
-  <logpath>C:\Users\hui43\Downloads\mihomo\logs</logpath>
+  <!-- 日志配置：日志文件存放路径和日志模式。 -->
+  <logpath>C:\xxx\xxx\xxx\mihomo\logs</logpath>
   <logmode>roll</logmode>
 </service>
