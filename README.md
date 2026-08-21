@@ -1,15 +1,15 @@
 # Mihomo Windows 服务
 
 使用 [WinSW](https://github.com/winsw/winsw) 将 [Mihomo](https://github.com/MetaCubeX/mihomo) 配置为 Windows 系统服务，实现开机自动启动。
-
+web ui可视化操作
 ![alt text](image.png)
 ![alt text](image-1.png)
-极小的占用
+极小的内存占用
 ![alt text](image-2.png)
 
 ## 目录结构
 
-将以下文件放在同一个目录中。本文以 `C:\Users\hui43\Downloads\mihomo` 为例，请按实际路径替换。
+以你实际目录为主, 本文以 `C:\Users\hui43\Downloads\mihomo` 为例，请按实际路径进行操作。
 
 ```text
 mihomo/
@@ -27,7 +27,10 @@ mihomo/
 
 1. 编辑 `config.yaml`，将配置中的订阅 URL 替换为自己的订阅链接。
 2. 编辑 `mihomo-service.xml`，将 `<executable>`、`<arguments>` 和 `<workingdirectory>` 中的示例路径替换为目标目录的实际路径。
-3. 确认 `mihomo-service.xml` 与 `mihomo-service.exe` 文件名中的服务前缀一致。当前服务 ID 为 `mihomo`。
+3. 确认 `mihomo-service.xml` 与 `mihomo-service.exe` 文件名中的服务前缀一致。
+
+> 注意：如果修改了 `mihomo-service.xml`，应先停止并卸载当前 WinSW 服务，再重新安装并启动服务，修改才会生效。
+> 注意：如果修改了 `config.yaml`，请重启 Mihomo 服务后再继续使用，以确保新的配置生效。
 
 ## 安装并启动服务
 
@@ -36,6 +39,7 @@ mihomo/
 ### 1. 进入程序目录
 
 ```powershell
+# 以你实际目录为主, 本文以 `C:\Users\hui43\Downloads\mihomo` 为例
 cd C:\Users\hui43\Downloads\mihomo
 ```
 
@@ -55,9 +59,27 @@ cd C:\Users\hui43\Downloads\mihomo
 
 ```powershell
 Get-Service mihomo
+# 状态显示为 `Running` 表示服务已启动；`Automatic` 启动模式会让服务在 Windows 开机时自动启动。
 ```
 
-状态显示为 `Running` 表示服务已启动；`Automatic` 启动模式会让服务在 Windows 开机时自动启动。
+
+
+> 重要：如果后续修改了 `config.yaml`，请执行以下命令重启服务：
+>
+> ```powershell
+>.\mihomo-service.exe restart
+> ```
+>
+> 如果修改了 `mihomo-service.xml`，请按照顺序执行：
+>
+> ```powershell
+> .\mihomo-service.exe stop
+> .\mihomo-service.exe uninstall
+> .\mihomo-service.exe install
+> .\mihomo-service.exe start
+> ```
+>
+> 以上操作完成后，再继续使用或验证服务状态。
 
 ## 运行 Web UI
 
@@ -126,6 +148,8 @@ Get-Service mihomo
 # 卸载服务（需要先停止服务）
 .\mihomo-service.exe uninstall
 ```
+
+> 说明：修改 `mihomo-service.xml` 后，需停止并卸载当前服务，再重新安装并启动服务；修改 `config.yaml` 后，需重启 Mihomo 服务才能使配置生效。
 
 ## 日志
 
