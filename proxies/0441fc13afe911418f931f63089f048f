@@ -1,0 +1,2578 @@
+proxies:
+  - name: "IE1x \U0001F1FA\U0001F1F8 美国2"
+    type: vmess
+    server: shh.ysqhq.top
+    port: 21996
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE2x \U0001F1FA\U0001F1F8 美国3"
+    type: vmess
+    server: shh.ysqhq.top
+    port: 21995
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE1x \U0001F1FA\U0001F1F8 美国8"
+    type: vmess
+    server: shh.ysqhq.top
+    port: 21870
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1FA\U0001F1F8 美国10"
+    type: vmess
+    server: shh.ysqhq.top
+    port: 21872
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE1x \U0001F1FA\U0001F1F8 美国23"
+    type: vmess
+    server: shh.ysqhq.top
+    port: 21998
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1FA\U0001F1F8 美国17"
+    type: vmess
+    server: shh.ysqhq.top
+    port: 21945
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1E8\U0001F1F7 哥斯达黎加"
+    type: vmess
+    server: shh.ysqhq.top
+    port: 22024
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1F8\U0001F1EA 瑞典2"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 21933
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE2x \U0001F1EC\U0001F1E7 英国2"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 21419
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1EE\U0001F1F9 意大利 家宽"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 22027
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1F1\U0001F1FA 卢森堡"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 22029
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1F1\U0001F1F9 立陶宛"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 22056
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1EE\U0001F1F1 以色列1"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 22059
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE2x \U0001F1EA\U0001F1EA 爱沙尼亚"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 22072
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE2x \U0001F1F0\U0001F1EC 吉尔吉斯斯坦"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 22151
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE2x \U0001F1F7\U0001F1FA 俄罗斯"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 22077
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1FA\U0001F1E6 乌克兰2"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 21432
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1E6\U0001F1F2 亚美尼亚"
+    type: vmess
+    server: dde.ysqhq.top
+    port: 22169
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1F9\U0001F1ED 泰国1"
+    type: vmess
+    server: eee.ysqhq.top
+    port: 22091
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1EE\U0001F1E9 印度尼西亚2"
+    type: vmess
+    server: eee.ysqhq.top
+    port: 20005
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1F8\U0001F1EC 新加坡1"
+    type: vmess
+    server: eee.ysqhq.top
+    port: 22102
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1F8\U0001F1EC 新加坡2"
+    type: vmess
+    server: eee.ysqhq.top
+    port: 21949
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1EF\U0001F1F5 日本1"
+    type: vmess
+    server: shh.ysqhq.top
+    port: 22117
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1EF\U0001F1F5 日本2"
+    type: vmess
+    server: shh.ysqhq.top
+    port: 22118
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1F9\U0001F1FC 台湾3 家宽"
+    type: vmess
+    server: eee.ysqhq.top
+    port: 21865
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1ED\U0001F1F0 香港0"
+    type: vmess
+    server: eee.ysqhq.top
+    port: 22147
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1ED\U0001F1F0 香港1"
+    type: vmess
+    server: eee.ysqhq.top
+    port: 22130
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1ED\U0001F1F0 香港2"
+    type: vmess
+    server: eee.ysqhq.top
+    port: 22131
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "IE5x \U0001F1ED\U0001F1F0 香港9"
+    type: vmess
+    server: eee.ysqhq.top
+    port: 22135
+    uuid: 4ce8bceb-a513-456a-8093-fe6f711539ea
+    alterId: 0
+    cipher: auto
+    udp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F680 Marz (test123) [Shadowsocks - tcp]"
+    network: tcp
+    password: s3xbO28PVqMNKxMOJIw-5Q
+    port: 1080
+    server: 185.155.235.86
+    type: ss
+    udp: true
+  - name: 批量测试可能导致 GFW 干扰连接！！！
+    type: trojan
+    server: alink.moe233.app
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    sni: alink.moe233.app
+  - name: "\U0001F1ED\U0001F1F0HK HKBN"
+    type: anytls
+    server: 18bec645-2380-cf60-048a-49ac1b24d98c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-0e74a78d-3f2f-9044-19a4-9e8747517c6f.qchwnd.moe
+  - name: "\U0001F1ED\U0001F1F0HK HKT"
+    type: anytls
+    server: 18bec645-2380-cf60-048a-49ac1b24d98c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-ade94d06-447a-b412-040e-069a2cd468fa.qchwnd.moe
+  - name: "\U0001F1ED\U0001F1F0HK Akari"
+    type: anytls
+    server: 18bec645-2380-cf60-048a-49ac1b24d98c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-e734e841-82c5-0fb5-df8a-371a0e36d85f.qchwnd.moe
+  - name: "\U0001F1F8\U0001F1ECSG FDC"
+    type: anytls
+    server: 1ebdd03e-ef96-ca79-0017-af8dd2dd1646.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-f88ea362-74dc-ea29-4f92-2b026570e1a6.qchwnd.moe
+  - name: "\U0001F1F8\U0001F1ECSG Akari 1"
+    type: anytls
+    server: 23029b79-c0d8-35d2-ed6c-cd154cb24d86.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-6a13d6f4-28ea-8432-0d5c-8288f351b3a5.qchwnd.moe
+  - name: "\U0001F1F8\U0001F1ECSG Akari 2"
+    type: anytls
+    server: 2459f2dc-5958-8db2-c650-4ddc9933ee10.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-b94df10f-7bb1-19cd-31ea-b517ce5c5f43.qchwnd.moe
+  - name: "\U0001F1EF\U0001F1F5JP Datacamp 1"
+    type: anytls
+    server: 1d2f2100-71cf-14ce-fc9f-641ef672173c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-ece18dd5-06d1-c2fb-f3ca-11b413a9ad5a.qchwnd.moe
+  - name: "\U0001F1EF\U0001F1F5JP Datacamp 2"
+    type: anytls
+    server: 1d2f2100-71cf-14ce-fc9f-641ef672173c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-f24e41bf-11de-bda5-73ad-57870109ec93.qchwnd.moe
+  - name: "\U0001F1F9\U0001F1FCTW HiNet 1"
+    type: anytls
+    server: 18bec645-2380-cf60-048a-49ac1b24d98c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-2a5666a3-d7d4-4499-835f-3a5f86712fcd.qchwnd.moe
+  - name: "\U0001F1F9\U0001F1FCTW HiNet 2"
+    type: anytls
+    server: 18bec645-2380-cf60-048a-49ac1b24d98c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-9b8036b0-ef5f-ef98-2a14-eb0eae510e8f.qchwnd.moe
+  - name: "\U0001F1F9\U0001F1EDTH Siamdata"
+    type: anytls
+    server: 1ebdd03e-ef96-ca79-0017-af8dd2dd1646.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-0e2bfe76-e8fa-aed3-3dfb-c2054638e66f.qchwnd.moe
+  - name: "\U0001F1EE\U0001F1E9ID Herza"
+    type: anytls
+    server: 1ebdd03e-ef96-ca79-0017-af8dd2dd1646.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-f16710e1-2a3a-ae9e-33a4-f474ab225153.qchwnd.moe
+  - name: "\U0001F1F0\U0001F1F7KR GCS"
+    type: anytls
+    server: 1d2f2100-71cf-14ce-fc9f-641ef672173c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-d2ca5302-0f7b-8628-1e10-c2317cd04a51.qchwnd.moe
+  - name: "\U0001F1FA\U0001F1F8US Psychz"
+    type: anytls
+    server: raksmart-sea.edge.qchwnd.moe
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-1569eedb-1e15-9085-b5d5-af0bd180daca.qchwnd.moe
+  - name: "\U0001F1FA\U0001F1F8US ColoCrossing"
+    type: anytls
+    server: raksmart-sea.edge.qchwnd.moe
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-4a167046-e508-a644-fc4c-cd8860a758e7.qchwnd.moe
+  - name: "\U0001F1FA\U0001F1F8US GTT"
+    type: anytls
+    server: raksmart-sea.edge.qchwnd.moe
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-a06a4984-b24f-a083-9a4b-ff61376a25e2.qchwnd.moe
+  - name: "\U0001F1E8\U0001F1E6CA Bytefilter"
+    type: anytls
+    server: raksmart-sea.edge.qchwnd.moe
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-8cc53bab-1943-b2e7-77f5-bbfea0944cf8.qchwnd.moe
+  - name: "\U0001F1EC\U0001F1E7UK IOMART"
+    type: anytls
+    server: 18bec645-2380-cf60-048a-49ac1b24d98c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-1a11c545-5c33-8630-15a2-afc7e6278cf9.qchwnd.moe
+  - name: "\U0001F1E9\U0001F1EADE dataforest"
+    type: anytls
+    server: 18bec645-2380-cf60-048a-49ac1b24d98c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-efc3d5a7-f67f-2582-5955-42316a3a6af2.qchwnd.moe
+  - name: "\U0001F1EB\U0001F1F7FR AdKyNet"
+    type: anytls
+    server: 18bec645-2380-cf60-048a-49ac1b24d98c.relay.moe233.org
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-d2c7ddc0-3020-acfb-6be1-b19dad5dc8af.qchwnd.moe
+  - name: "[DIRECT] \U0001F1ED\U0001F1F0HK HKT"
+    server: 42.3.144.4
+    port: 3386
+    udp: true
+    skip-cert-verify: true
+    type: hysteria2
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+  - name: "[DIRECT] \U0001F1FA\U0001F1F8US ColoCrossing"
+    server: 104.168.6.134
+    port: 3386
+    udp: true
+    skip-cert-verify: true
+    type: hysteria2
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+  - name: "[DIRECT] \U0001F1FA\U0001F1F8US MULTACOM 1"
+    server: 192.129.235.177
+    port: 3386
+    udp: true
+    skip-cert-verify: true
+    type: hysteria2
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+  - name: "[Direct] \U0001F1FA\U0001F1F8US MULTACOM 2"
+    type: anytls
+    server: 163.47.135.191
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-aae2abbc-f724-d144-4fee-85b43e358898.qchwnd.moe
+  - name: "[Direct] \U0001F1E9\U0001F1EADE dataforest"
+    type: anytls
+    server: 5.231.70.55
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-efc3d5a7-f67f-2582-5955-42316a3a6af2.qchwnd.moe
+  - name: "[Direct] \U0001F1EB\U0001F1F7FR AdKyNet"
+    type: anytls
+    server: 83.150.217.62
+    port: 443
+    password: 14c5e61d-4f61-49a6-a668-16929104512e
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: moe233-alink-d2c7ddc0-3020-acfb-6be1-b19dad5dc8af.qchwnd.moe
+  - name: "[CloudFront] \U0001F1EF\U0001F1F5JP Datacamp"
+    type: vmess
+    server: cfn-nrt.cdn.qchwnd.moe
+    port: 443
+    uuid: 14c5e61d-4f61-49a6-a668-16929104512e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: true
+    network: ws
+    ws-opts:
+      path: /aln/10
+      headers:
+        Host: d232fuc3xd1vzm.cloudfront.net
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    servername: d232fuc3xd1vzm.cloudfront.net
+  - name: "[CloudFront] \U0001F1FA\U0001F1F8US ColoCrossing"
+    type: vmess
+    server: cfn-lax.cdn.qchwnd.moe
+    port: 443
+    uuid: 14c5e61d-4f61-49a6-a668-16929104512e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: true
+    network: ws
+    ws-opts:
+      path: /aln/18
+      headers:
+        Host: d8woo64bdfxdl.cloudfront.net
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    servername: d8woo64bdfxdl.cloudfront.net
+  - name: "[CloudFront] \U0001F1FA\U0001F1F8US GTT"
+    type: vmess
+    server: cfn.cdn.moe233.org
+    port: 443
+    uuid: 14c5e61d-4f61-49a6-a668-16929104512e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: true
+    network: ws
+    ws-opts:
+      path: /aln/30
+      headers:
+        Host: d23avnto1s9lq.cloudfront.net
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    servername: d23avnto1s9lq.cloudfront.net
+  - name: "[CloudFront] \U0001F1E8\U0001F1E6CA Bytefilter"
+    type: vmess
+    server: cfn-lax.cdn.qchwnd.moe
+    port: 443
+    uuid: 14c5e61d-4f61-49a6-a668-16929104512e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: true
+    network: ws
+    ws-opts:
+      path: /aln/49
+      headers:
+        Host: d2eyeotmscglv5.cloudfront.net
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    servername: d2eyeotmscglv5.cloudfront.net
+  - name: "[CloudFront] \U0001F1EC\U0001F1E7UK IOMART"
+    type: vmess
+    server: cfn.cdn.moe233.org
+    port: 443
+    uuid: 14c5e61d-4f61-49a6-a668-16929104512e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: true
+    network: ws
+    ws-opts:
+      path: /aln/27
+      headers:
+        Host: dci2lahgmlrxx.cloudfront.net
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    servername: dci2lahgmlrxx.cloudfront.net
+  - name: "[CloudFront] \U0001F1E9\U0001F1EADE dataforest"
+    type: vmess
+    server: cfn.cdn.moe233.org
+    port: 443
+    uuid: 14c5e61d-4f61-49a6-a668-16929104512e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: true
+    network: ws
+    ws-opts:
+      path: /aln/41
+      headers:
+        Host: d189h9dh1vhju8.cloudfront.net
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    servername: d189h9dh1vhju8.cloudfront.net
+  - name: "[CloudFront] \U0001F1EB\U0001F1F7FR AdKyNet"
+    type: vmess
+    server: cfn.cdn.moe233.org
+    port: 443
+    uuid: 14c5e61d-4f61-49a6-a668-16929104512e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: true
+    network: ws
+    ws-opts:
+      path: /aln/16
+      headers:
+        Host: d25vebqjczoveb.cloudfront.net
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    servername: d25vebqjczoveb.cloudfront.net
+  - name: "\U0001F1FA\U0001F1F8 美国 01｜1x US"
+    type: anytls
+    server: us1.the-best-airport.online
+    port: 31527
+    password: 1a379e3b-a22c-4229-8f2c-c372f78cb6e9
+    client-fingerprint: chrome
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: us1.the-best-airport.online
+    skip-cert-verify: false
+  - name: "\U0001F1FA\U0001F1F8 美国 02｜1x US"
+    type: anytls
+    server: us2.the-best-airport.online
+    port: 35149
+    password: 1a379e3b-a22c-4229-8f2c-c372f78cb6e9
+    client-fingerprint: chrome
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: us2.the-best-airport.online
+    skip-cert-verify: false
+  - name: "\U0001F1FA\U0001F1F8 美国 03｜1x US"
+    type: anytls
+    server: us3.the-best-airport.online
+    port: 36812
+    password: 1a379e3b-a22c-4229-8f2c-c372f78cb6e9
+    client-fingerprint: chrome
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: us3.the-best-airport.online
+    skip-cert-verify: false
+  - name: "\U0001F1FA\U0001F1F8 美国 04｜1x US"
+    type: anytls
+    server: us4.the-best-airport.online
+    port: 33189
+    password: 1a379e3b-a22c-4229-8f2c-c372f78cb6e9
+    client-fingerprint: chrome
+    udp: true
+    alpn:
+      - h2
+      - http/1.1
+    sni: us4.the-best-airport.online
+    skip-cert-verify: false
+  - name: 剩余流量：59.44 GB
+    type: vless
+    server: test.37211.lol
+    port: 45136
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: 套餐到期：2027-10-10
+    type: vless
+    server: test.37211.lol
+    port: 45136
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1ED\U0001F1F0 香港01αvless"
+    type: vless
+    server: test.37211.lol
+    port: 33521
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1ED\U0001F1F0 香港02αSAKURA vless"
+    type: vless
+    server: test.37211.lol
+    port: 33338
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1EF\U0001F1F5日本01αCogent vless"
+    type: vless
+    server: test.37211.lol
+    port: 36371
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1EF\U0001F1F5日本02αOci vless"
+    type: vless
+    server: test.37211.lol
+    port: 36262
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1EF\U0001F1F5日本03αAkamai vless"
+    type: vless
+    server: test.37211.lol
+    port: 46623
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F8\U0001F1EC新加坡01αOci vless"
+    type: vless
+    server: test.37211.lol
+    port: 36251
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F8\U0001F1EC新加坡02αDig vless"
+    type: vless
+    server: test.37211.lol
+    port: 43541
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1FA\U0001F1F8美国01αNetLab vless"
+    type: vless
+    server: test.37211.lol
+    port: 35233
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1FA\U0001F1F8美国02αWholesale vless"
+    type: vless
+    server: test.37211.lol
+    port: 26125
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1FA\U0001F1F8美国03αRn vless"
+    type: vless
+    server: test.37211.lol
+    port: 23613
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1FA\U0001F1F8美国04αDig vless"
+    type: vless
+    server: test.37211.lol
+    port: 46163
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1E8\U0001F1F3台湾01αTBC"
+    type: vless
+    server: test.37211.lol
+    port: 20200
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F2\U0001F1FE马来西亚01αTM"
+    type: vless
+    server: test.37211.lol
+    port: 24008
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F0\U0001F1F7韩国01| KT"
+    type: vless
+    server: test.37211.lol
+    port: 27007
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F9\U0001F1ED泰国01αAIS"
+    type: vless
+    server: test.37211.lol
+    port: 21016
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1EE\U0001F1E9印度尼西亚01αRAJASA"
+    type: vless
+    server: test.37211.lol
+    port: 20220
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1FB\U0001F1F3越南01| FPT Telecom"
+    type: vless
+    server: test.37211.lol
+    port: 21031
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1EB\U0001F1F7法国01|  OVHcloud"
+    type: vless
+    server: test.37211.lol
+    port: 21010
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1E8\U0001F1E6加拿大01αiWeb"
+    type: vless
+    server: test.37211.lol
+    port: 21160
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F9\U0001F1F7土耳其01|  YottaSrc"
+    type: vless
+    server: test.37211.lol
+    port: 20330
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1EE\U0001F1F8冰岛01|  Hostkey"
+    type: vless
+    server: test.37211.lol
+    port: 21100
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F8\U0001F1EA瑞典01αheartbeat IT"
+    type: vless
+    server: test.37211.lol
+    port: 21028
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F2\U0001F1E9摩尔多瓦01αAlexhost"
+    type: vless
+    server: test.37211.lol
+    port: 21058
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1E6\U0001F1F6南极洲01αWARP"
+    type: vless
+    server: test.37211.lol
+    port: 59917
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1E7\U0001F1F7巴西01αOracle"
+    type: vless
+    server: test.37211.lol
+    port: 58527
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1E6\U0001F1EA阿联酋01αOracle"
+    type: vless
+    server: test.37211.lol
+    port: 18234
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1E8\U0001F1F4哥伦比亚01αCox"
+    type: vless
+    server: test.37211.lol
+    port: 50675
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1FF\U0001F1E6南非01αOracle"
+    type: vless
+    server: test.37211.lol
+    port: 28823
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F8\U0001F1E6沙特阿拉伯01αOracle"
+    type: vless
+    server: test.37211.lol
+    port: 34233
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1EE\U0001F1F1以色列01αOracle"
+    type: vless
+    server: test.37211.lol
+    port: 64612
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1EC\U0001F1E7英国01αOracle"
+    type: vless
+    server: test.37211.lol
+    port: 17857
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1EA\U0001F1F8西班牙01αAlexhost"
+    type: vless
+    server: test.37211.lol
+    port: 41869
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1E9\U0001F1EA德国01αAlexhost"
+    type: vless
+    server: test.37211.lol
+    port: 17907
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F2\U0001F1FD墨西哥01αAlexhost"
+    type: vless
+    server: test.37211.lol
+    port: 59443
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1E6\U0001F1FA澳大利亚01αAlexhost"
+    type: vless
+    server: test.37211.lol
+    port: 9615
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1E7\U0001F1EC保加利亚01αBelcloud"
+    type: vless
+    server: test.37211.lol
+    port: 7404
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: "\U0001F1F3\U0001F1EC尼日利亚01αBelcloud"
+    type: vless
+    server: test.37211.lol
+    port: 50112
+    uuid: 653ce6d0-d437-43b9-b8ae-76a82a67e161
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 73W22L_nf8xCnq7tJgRJWc1L78-9qpcwX-tmNR8DfwA
+      short-id: ba84fa3c
+    network: tcp
+    servername: bilibili-hk.biliimg.com
+  - name: 剩余流量：0
+    type: trojan
+    server: tvhinet.lajichang.xyz
+    port: 2096
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+    sni: bing.com
+    skip-cert-verify: true
+  - name: 套餐到期：2027-10-24
+    type: trojan
+    server: tvhinet.lajichang.xyz
+    port: 2096
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+    sni: bing.com
+    skip-cert-verify: true
+  - name: 台湾Hinet-Trojan|1x
+    type: trojan
+    server: tvhinet.lajichang.xyz
+    port: 2096
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+    sni: bing.com
+    skip-cert-verify: true
+  - name: 台湾Hinet2-Trojan|1x
+    type: trojan
+    server: llhinet.lajichang.xyz
+    port: 2096
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+    sni: bing.com
+    skip-cert-verify: true
+  - name: 台湾Hinet3-Trojan|1x
+    type: trojan
+    server: pqhinet.lajichang.xyz
+    port: 2096
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+    sni: bing.com
+    skip-cert-verify: true
+  - name: 香港HKT1-Trojan|1x
+    type: trojan
+    server: hkt.lajichang.xyz
+    port: 2096
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+    sni: bing.com
+    skip-cert-verify: true
+  - name: 香港1|1x|移动
+    type: vmess
+    server: '2602:f864:218:e::b'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 香港5|1x|移动
+    type: vmess
+    server: '2400:c620:2e:551f::1'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 日本IIJ1ak|1x
+    type: vmess
+    server: '2602:fa4f:b00:a2a:d3df:5aba:ec37:a7ca'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be4f/
+  - name: 澳门2|移动|1x
+    type: vmess
+    server: '2a0e:97c0:7d7:b53:467c:87ed:4be6:6317'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 澳门3|移动|1x
+    type: vmess
+    server: '2a0e:97c0:7d7:8acb:9067:f5e7:80ce:f09e'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 澳门4|移动|1x
+    type: vmess
+    server: '2a0e:97c0:7d7:d69f:7af2:2066:3760:486'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 荷兰2-hy2|1x
+    server: '2a12:9080:1:4c::a'
+    port: 34444
+    udp: true
+    skip-cert-verify: true
+    sni: bing.com
+    type: hysteria2
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+  - name: 美西S1|1x
+    type: ss
+    server: v6uss1.lajichang.xyz
+    port: 25555
+    cipher: aes-128-gcm
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+  - name: 美西S2|1x
+    type: ss
+    server: v6uss2.lajichang.xyz
+    port: 26666
+    cipher: aes-128-gcm
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+  - name: 香港S5|1x
+    type: ss
+    server: v6hks5.lajichang.xyz
+    port: 25555
+    cipher: aes-128-gcm
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+  - name: 日本S2|1x
+    type: ss
+    server: v6jps2.lajichang.xyz
+    port: 25555
+    cipher: aes-128-gcm
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+  - name: 新加坡S1|1x
+    type: ss
+    server: v6sgs1.lajichang.xyz
+    port: 25555
+    cipher: aes-128-gcm
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+  - name: 新加坡S2|1x
+    type: ss
+    server: v6sgs2.lajichang.xyz
+    port: 25555
+    cipher: aes-128-gcm
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+  - name: 日本2nb3-trojan|1x
+    type: trojan
+    server: '2404:c140:2005:1::d:dea1'
+    port: 2087
+    password: d039e70b-657f-4d16-8225-ce4b7015acc9
+    udp: true
+    sni: bing.com
+    skip-cert-verify: true
+  - name: 日本2nb3|1x
+    type: vmess
+    server: '2404:c140:2005:1::d:dea1'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 日本3|1x
+    type: vmess
+    server: '2a12:bec0:167:1178::'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 美西1|1x
+    type: vmess
+    server: '2607:9d00:2000:140::ac20:1a9d'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 美西2|1x
+    type: vmess
+    server: '2607:9d00:2000:16a::88b0:4a77'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 美西3|1x
+    type: vmess
+    server: '2605:8340::b:0:ca:0:a'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 美西4|1x
+    type: vmess
+    server: '2607:f130:0:144::4a8b:fab5'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 美西5|1x
+    type: vmess
+    server: '2605:8340::b:0:c2:0:a'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 美西6|1x
+    type: vmess
+    server: '2605:6400:5245::1'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 美西10|1x
+    type: vmess
+    server: '2607:9d00:2000:172::eefd:5267'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: DMITSJ|1x
+    type: vmess
+    server: '2605:52c0:1001:5ce::1'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 美西14|1x
+    type: vmess
+    server: '2607:f130:0:166::aa5d:f37c'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 台湾1|1x
+    type: vmess
+    server: '2001:b030:a42d:5d01::1043'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 台湾2|1x
+    type: vmess
+    server: '2400:70e0:b000:0:8ac:4fff:fe14:7e0'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 台湾3|1x
+    type: vmess
+    server: '2407:cdc0:f004:842f:2536:3dbb:3e0f:19'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 台湾4|1x
+    type: vmess
+    server: '2400:70e0:bab:114:514::42'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 台湾5|1x
+    type: vmess
+    server: '2407:cdc0:f004:8202:7bc:a35:4c82:d904'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 香港3|移动|1x
+    type: vmess
+    server: '2a0f:1cc5:401:1d::a'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 香港15|1x
+    type: vmess
+    server: '2407:cdc0:b02e::18ab'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 香港16|1x
+    type: vmess
+    server: '2a12:3fc2:ab41:69ff:c43a:1345:0:1'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 香港20|1x|移动
+    type: vmess
+    server: '2400:c620:28:a087::1'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 香港26|1x|移动
+    type: vmess
+    server: '2406:840:fa80:1::89'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 香港27|1x|移动
+    type: vmess
+    server: '2406:840:fa80:1::67'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 香港32|1x|移动
+    type: vmess
+    server: '2400:c620:23:1ac7::1'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 新加坡1|1x
+    type: vmess
+    server: '2a0e:97c0:7d4:ff05::a'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 新加坡2|1x
+    type: vmess
+    server: '2a0e:97c0:7d4:ff3c::a'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 新加坡3|1x
+    type: vmess
+    server: '2a02:6ea0:d14a::cdf0:54bf'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 新加坡8|1x
+    type: vmess
+    server: '2605:e440:16::281'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 新加坡9|1x
+    type: vmess
+    server: '2605:e440:16::346'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 韩国1|1x
+    type: vmess
+    server: '2603:c024:b:ed11:ca30:a4cf:af3a:d423'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 韩国2|1x
+    type: vmess
+    server: '2603:c024:b:ed11:1a52:82c9:e0fb:ee1d'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 韩国3|1x
+    type: vmess
+    server: '2603:c024:b:ed11:aaa9:2a92:768c:55a2'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 韩国4|1x
+    type: vmess
+    server: '2603:c024:b:ed11:bbba:dec7:f562:3ead'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 德国3|1x
+    type: vmess
+    server: '2a01:4f8:242:1d0e::1461:40'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 印度1|移动|1x
+    type: vmess
+    server: '2602:fa08:50:7100::a'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 荷兰1|1x
+    type: vmess
+    server: '2a07:d884::10ad'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 荷兰2|1x
+    type: vmess
+    server: '2a12:9080:1:4c::a'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 俄罗斯1|1x
+    type: vmess
+    server: '2a00:b700::6:288'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 尼日利亚1|1x
+    type: vmess
+    server: '2a01:4f8:162:54d9:16a::'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 法国1|1x
+    type: vmess
+    server: '2a01:7a7:2:3343::2b93:6841'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 埃及1|1x
+    type: vmess
+    server: '2a01:4f8:162:54d9:6f::'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 巴基斯坦1|1x
+    type: vmess
+    server: '2001:df2:d40:9:4075::'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 意大利1|1x
+    type: vmess
+    server: '2a05:4140:3::389f'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 澳洲2|1x
+    type: vmess
+    server: '2406:3400:388:300::21'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 澳洲3|1x
+    type: vmess
+    server: '2406:3400:388:300::f1'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+  - name: 澳洲4|1x
+    type: vmess
+    server: '2406:3400:388:300::3a'
+    port: 24444
+    uuid: d039e70b-657f-4d16-8225-ce4b7015acc9
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /5e60be5f/
+mixed-port: 7890
+allow-lan: true
+bind-address: '*'
+mode: rule
+log-level: info
+external-controller: '127.0.0.1:9090'
+dns:
+  enable: true
+  ipv6: false
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+    - 114.114.114.114
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  use-hosts: true
+  respect-rules: true
+  proxy-server-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+    - 114.114.114.114
+  nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+    - 114.114.114.114
+  fallback:
+    - 1.1.1.1
+    - 8.8.8.8
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    geosite:
+      - gfw
+    ipcidr:
+      - 240.0.0.0/4
+    domain:
+      - +.google.com
+      - +.facebook.com
+      - +.youtube.com
+proxy-groups:
+  - name: 节点选择
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Proxy.png
+    type: select
+    proxies:
+      - 自动选择
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 美国节点
+      - 韩国节点
+      - 手动切换
+      - DIRECT
+  - name: 手动切换
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/shindgewongxj/WHATSINStash@master/icon/select.png
+    include-all: true
+    type: select
+  - name: 自动选择
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Auto.png
+    type: url-test
+    include-all: true
+    interval: 300
+    tolerance: 50
+  - name: 电报消息
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Telegram.png
+    type: select
+    proxies:
+      - 节点选择
+      - 自动选择
+      - 狮城节点
+      - 香港节点
+      - 台湾节点
+      - 日本节点
+      - 美国节点
+      - 韩国节点
+      - 手动切换
+      - DIRECT
+  - name: OpenAi
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bot.png
+    type: select
+    proxies:
+      - 节点选择
+      - 自动选择
+      - 狮城节点
+      - 香港节点
+      - 台湾节点
+      - 日本节点
+      - 美国节点
+      - 韩国节点
+      - 手动切换
+      - DIRECT
+  - name: 油管视频
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
+    type: select
+    proxies:
+      - 节点选择
+      - 自动选择
+      - 狮城节点
+      - 香港节点
+      - 台湾节点
+      - 日本节点
+      - 美国节点
+      - 韩国节点
+      - 手动切换
+      - DIRECT
+  - name: 奈飞视频
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
+    type: select
+    proxies:
+      - 节点选择
+      - 自动选择
+      - 奈飞节点
+      - 狮城节点
+      - 香港节点
+      - 台湾节点
+      - 日本节点
+      - 美国节点
+      - 韩国节点
+      - 手动切换
+      - DIRECT
+  - name: 巴哈姆特
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bahamut.png
+    type: select
+    proxies:
+      - 台湾节点
+      - 节点选择
+      - 手动切换
+      - DIRECT
+  - name: 哔哩哔哩
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/bilibili.png
+    type: select
+    proxies:
+      - 全球直连
+      - 台湾节点
+      - 香港节点
+  - name: 国外媒体
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/ForeignMedia.png
+    type: select
+    proxies:
+      - 节点选择
+      - 自动选择
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 美国节点
+      - 韩国节点
+      - 手动切换
+      - DIRECT
+  - name: 国内媒体
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/DomesticMedia.png
+    type: select
+    proxies:
+      - DIRECT
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 手动切换
+  - name: 谷歌FCM
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png
+    type: select
+    proxies:
+      - DIRECT
+      - 节点选择
+      - 美国节点
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 韩国节点
+      - 手动切换
+  - name: 微软Bing
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/shindgewongxj/WHATSINStash@master/icon/bing.png
+    type: select
+    proxies:
+      - DIRECT
+      - 节点选择
+      - 美国节点
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 韩国节点
+      - 手动切换
+  - name: 微软云盘
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/OneDrive.png
+    type: select
+    proxies:
+      - DIRECT
+      - 节点选择
+      - 美国节点
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 韩国节点
+      - 手动切换
+  - name: 微软服务
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Microsoft.png
+    type: select
+    proxies:
+      - 节点选择
+      - DIRECT
+      - 美国节点
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 韩国节点
+      - 手动切换
+  - name: 苹果服务
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Apple.png
+    type: select
+    proxies:
+      - DIRECT
+      - 节点选择
+      - 美国节点
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 韩国节点
+      - 手动切换
+  - name: 游戏平台
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Game.png
+    type: select
+    proxies:
+      - DIRECT
+      - 节点选择
+      - 美国节点
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 韩国节点
+      - 手动切换
+  - name: 网易音乐
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netease_Music.png
+    type: select
+    include-all: true
+    filter: (?i)网易|音乐|NetEase|Music
+    proxies:
+      - DIRECT
+      - 节点选择
+      - 自动选择
+  - name: 全球直连
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Direct.png
+    type: select
+    proxies:
+      - DIRECT
+      - 节点选择
+      - 自动选择
+  - name: 广告拦截
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AdBlack.png
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 应用净化
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hijacking.png
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 漏网之鱼
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Final.png
+    type: select
+    proxies:
+      - 节点选择
+      - 自动选择
+      - DIRECT
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 美国节点
+      - 韩国节点
+      - 手动切换
+  - name: 香港节点
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
+    include-all: true
+    filter: (?i)港|HK|hk|Hong Kong|HongKong|hongkong
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 日本节点
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Japan.png
+    include-all: true
+    filter: (?i)日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 美国节点
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/United_States.png
+    include-all: true
+    filter: (?i)美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 台湾节点
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Taiwan.png
+    include-all: true
+    filter: (?i)台|新北|彰化|TW|Taiwan
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 狮城节点
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Singapore.png
+    include-all: true
+    filter: (?i)新加坡|坡|狮城|SG|Singapore
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 韩国节点
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Korea.png
+    include-all: true
+    filter: (?i)KR|Korea|KOR|首尔|韩|韓
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 奈飞节点
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
+    include-all: true
+    filter: (?i)NF|奈飞|解锁|Netflix|NETFLIX|Media
+    type: select
+  - name: GLOBAL
+    icon: >-
+      https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Global.png
+    include-all: true
+    type: select
+    proxies:
+      - 节点选择
+      - 手动切换
+      - 自动选择
+      - 电报消息
+      - OpenAi
+      - 油管视频
+      - 奈飞视频
+      - 巴哈姆特
+      - 哔哩哔哩
+      - 国外媒体
+      - 国内媒体
+      - 谷歌FCM
+      - 微软Bing
+      - 微软云盘
+      - 微软服务
+      - 苹果服务
+      - 游戏平台
+      - 网易音乐
+      - 全球直连
+      - 广告拦截
+      - 应用净化
+      - 漏网之鱼
+      - 香港节点
+      - 日本节点
+      - 美国节点
+      - 台湾节点
+      - 狮城节点
+      - 韩国节点
+      - 奈飞节点
+rule-providers:
+  LocalAreaNetwork:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/LocalAreaNetwork.list
+    path: ./ruleset/LocalAreaNetwork.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  UnBan:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/UnBan.list'
+    path: ./ruleset/UnBan.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  BanAD:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanAD.list'
+    path: ./ruleset/BanAD.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  BanProgramAD:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanProgramAD.list
+    path: ./ruleset/BanProgramAD.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  GoogleFCM:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFCM.list
+    path: ./ruleset/GoogleFCM.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  GoogleCN:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/GoogleCN.list
+    path: ./ruleset/GoogleCN.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  SteamCN:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/SteamCN.list
+    path: ./ruleset/SteamCN.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Bing:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Bing.list'
+    path: ./ruleset/Bing.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  OneDrive:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/OneDrive.list
+    path: ./ruleset/OneDrive.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Microsoft:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Microsoft.list
+    path: ./ruleset/Microsoft.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Apple:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Apple.list'
+    path: ./ruleset/Apple.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Telegram:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Telegram.list
+    path: ./ruleset/Telegram.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  OpenAi:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/OpenAi.list
+    path: ./ruleset/OpenAi.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  NetEaseMusic:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/NetEaseMusic.list
+    path: ./ruleset/NetEaseMusic.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Epic:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Epic.list
+    path: ./ruleset/Epic.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Origin:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Origin.list
+    path: ./ruleset/Origin.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Sony:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Sony.list
+    path: ./ruleset/Sony.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Steam:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Steam.list
+    path: ./ruleset/Steam.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Nintendo:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Nintendo.list
+    path: ./ruleset/Nintendo.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  YouTube:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/YouTube.list
+    path: ./ruleset/YouTube.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Netflix:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Netflix.list
+    path: ./ruleset/Netflix.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Bahamut:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Bahamut.list
+    path: ./ruleset/Bahamut.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  BilibiliHMT:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/BilibiliHMT.list
+    path: ./ruleset/BilibiliHMT.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Bilibili:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Bilibili.list
+    path: ./ruleset/Bilibili.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ChinaMedia:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaMedia.list
+    path: ./ruleset/ChinaMedia.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ProxyMedia:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyMedia.list
+    path: ./ruleset/ProxyMedia.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ProxyGFWlist:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyGFWlist.list
+    path: ./ruleset/ProxyGFWlist.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ChinaDomain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaDomain.list
+    path: ./ruleset/ChinaDomain.list
+    behavior: domain
+    interval: 86400
+    format: text
+    type: http
+  ChinaCompanyIp:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaCompanyIp.list
+    path: ./ruleset/ChinaCompanyIp.list
+    behavior: ipcidr
+    interval: 86400
+    format: text
+    type: http
+  Download:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Download.list
+    path: ./ruleset/Download.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+rules:
+  - 'RULE-SET,LocalAreaNetwork,全球直连'
+  - 'RULE-SET,UnBan,全球直连'
+  - 'RULE-SET,BanAD,广告拦截'
+  - 'RULE-SET,BanProgramAD,应用净化'
+  - 'RULE-SET,GoogleFCM,谷歌FCM'
+  - 'RULE-SET,GoogleCN,全球直连'
+  - 'RULE-SET,SteamCN,全球直连'
+  - 'RULE-SET,Bing,微软Bing'
+  - 'RULE-SET,OneDrive,微软云盘'
+  - 'RULE-SET,Microsoft,微软服务'
+  - 'RULE-SET,Apple,苹果服务'
+  - 'RULE-SET,Telegram,电报消息'
+  - 'RULE-SET,OpenAi,OpenAi'
+  - 'RULE-SET,NetEaseMusic,网易音乐'
+  - 'RULE-SET,Epic,游戏平台'
+  - 'RULE-SET,Origin,游戏平台'
+  - 'RULE-SET,Sony,游戏平台'
+  - 'RULE-SET,Steam,游戏平台'
+  - 'RULE-SET,Nintendo,游戏平台'
+  - 'RULE-SET,YouTube,油管视频'
+  - 'RULE-SET,Netflix,奈飞视频'
+  - 'RULE-SET,Bahamut,巴哈姆特'
+  - 'RULE-SET,BilibiliHMT,哔哩哔哩'
+  - 'RULE-SET,Bilibili,哔哩哔哩'
+  - 'RULE-SET,ChinaMedia,国内媒体'
+  - 'RULE-SET,ProxyMedia,国外媒体'
+  - 'RULE-SET,ProxyGFWlist,节点选择'
+  - 'RULE-SET,ChinaDomain,全球直连'
+  - 'RULE-SET,ChinaCompanyIp,全球直连'
+  - 'RULE-SET,Download,全球直连'
+  - 'GEOIP,CN,全球直连'
+  - 'MATCH,漏网之鱼'

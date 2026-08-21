@@ -1,0 +1,11 @@
+<service>
+  <id>mihomo</id>
+  <name>mihomo Service</name>
+  <description>Mihomo proxy core service</description>
+  <executable>C:\Users\hui43\Downloads\mihomo\mihomo.exe</executable>
+  <arguments>-d C:\Users\hui43\Downloads\mihomo</arguments>
+  <workingdirectory>C:\Users\hui43\Downloads\mihomo</workingdirectory>
+  <startmode>Automatic</startmode>
+  <logpath>C:\Users\hui43\Downloads\mihomo\logs</logpath>
+  <logmode>roll</logmode>
+</service>
