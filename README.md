@@ -8,9 +8,6 @@ web ui可视化操作
 ![alt text](image-2.png)
 
 ## 目录结构
-
-以你实际目录为主, 本文以 `C:\Users\hui43\Downloads\mihomo` 为例，请按实际路径进行操作。
-
 ```text
 mihomo/
 ├─ mihomo.exe
