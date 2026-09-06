@@ -152,6 +152,8 @@ profile:
 geo-auto-update: true
 geo-update-interval: 24
 geodata-mode: false
+# ==================== Geo 数据下载地址 ====================
+# 默认采用高效 MMDB / MetaDB 模式（geodata-mode: false），在此模式下 geoip.metadb 须填写在 geox-url.mmdb 字段中。
 geox-url:
   geoip: https://github.com/appshubcc/bett-rules/releases/download/latest/geoip.dat
   geosite: https://github.com/appshubcc/bett-rules/releases/download/latest/geosite.dat
@@ -161,7 +163,6 @@ geox-url:
 # ==================== 远程规则集 ====================
 rule-providers:
   prevent_dns_leak:
-
     url: "https://raw.githubusercontent.com/xishang0128/rules/main/clash%20or%20stash/prevent_dns_leak/prevent_dns_leak_domain.list"
     path: ./ruleset/prevent_dns_leak_domain.list
     behavior: domain
