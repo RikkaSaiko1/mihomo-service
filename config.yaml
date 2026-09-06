@@ -151,15 +151,23 @@ profile:
   store-fake-ip: true
 geo-auto-update: true
 geo-update-interval: 24
-geodata-mode: true
+geodata-mode: false
 geox-url:
-  geoip: https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.dat
-  geosite: https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat
-  mmdb: https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb
-  asn: https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/GeoLite2-ASN.mmdb
+  geoip: https://github.com/appshubcc/bett-rules/releases/download/latest/geoip.dat
+  geosite: https://github.com/appshubcc/bett-rules/releases/download/latest/geosite.dat
+  mmdb: https://github.com/appshubcc/bett-rules/releases/download/latest/geoip.metadb
+  asn: https://github.com/appshubcc/bett-rules/releases/download/latest/GeoLite2-ASN.mmdb
 
 # ==================== 远程规则集 ====================
 rule-providers:
+  prevent_dns_leak:
+
+    url: "https://raw.githubusercontent.com/xishang0128/rules/main/clash%20or%20stash/prevent_dns_leak/prevent_dns_leak_domain.list"
+    path: ./ruleset/prevent_dns_leak_domain.list
+    behavior: domain
+    interval: 86400
+    format: text
+    type: http
   private:
     url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/private.yaml
     path: ./ruleset/private.yaml
@@ -345,6 +353,7 @@ proxy-groups:
     type: select
 
 rules:
+  - "RULE-SET,prevent_dns_leak,PROXY"
   - "RULE-SET,private,DIRECT"
   - "RULE-SET,bing,AIGC"
   - "RULE-SET,copilot,AIGC"
